@@ -22,7 +22,11 @@ This **Travel Advisor App** is a feature-rich, modern solution for travelers. It
 - Designed a responsive and visually appealing interface using Material-UI components.  
 
 ### Google Maps API  
-- Implemented interactive maps with user location and detailed location-based features.  
+- Implemented interactive maps with user location and detailed location-based features.
+
+- [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 
 ### RapidAPI Integration  
 - Mastered API integrations to fetch data from multiple sources including restaurants, hotels, and attractions.  
